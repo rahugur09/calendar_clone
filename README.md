@@ -1,6 +1,6 @@
 # Google Calendar Clone
 
-A fullstack calendar application built with React + Vite frontend and Node.js + MongoDB backend.
+A fullstack calendar application built with React + Vite frontend and Node.js + MongoDB backend. Deployed on https://gcalendar-clone.vercel.app/
 
 ## Setup & Run Instructions
 
@@ -195,7 +195,7 @@ If I had more time, I wouldn't have dumped on the features I reached midway and 
 
 ---
 
-**Note**: This was built in 24 hours taking AI help obviously. It helped me a lot although after a certain point of time it gave up and had to pick up on my own. I have worked a lot on design especially to replicate it with the google calendar in design etc considering the point about focus on the replication. As while writing this I will try my best to deploy this for your testing if I make it on time otherwise setup part I have already written
+**Note**: This was built in 24 hours taking AI help obviously. It helped me a lot although after a certain point of time it gave up and had to pick up on my own. I have worked a lot on design especially to replicate it with the google calendar in design etc considering the point about focus on the replication. As while writing this I will try my best to deploy this for your testing if I make it on time otherwise setup part I have already written. I have also added one backend pinger through uptime robot which is pinging the backend deployed on render every 5 minutes to avoid inactivity of render backend.
 
 ## License
 MIT License
